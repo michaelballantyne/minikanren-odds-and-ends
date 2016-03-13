@@ -1,0 +1,3 @@
+[submodule "append-in-scheme-in-scheme/mk"]
+	path = append-in-scheme-in-scheme/mk
+	url = https://github.com/michaelballantyne/faster-miniKanren.git
